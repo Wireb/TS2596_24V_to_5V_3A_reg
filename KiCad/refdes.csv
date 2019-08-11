@@ -1,0 +1,16 @@
+ref_des, part number, footprint
+C1, 470uF, PJS_smt_parts:EEE-FK1HxxxAM
+C2, 0.1uF, Capacitors_SMD:C_0805
+C3, 0.1uF, Capacitors_SMD:C_0805
+C4, 470uF, PJS_smt_parts:EEE-HA1AxxxUP
+D1, Red, LEDs:LED_0805
+D2, TSSA3U45, digikey-footprints:DO-214AC
+J1, 3.5mm screw, TerminalBlocks_Phoenix:TerminalBlock_Phoenix_PT-3.5mm_2pol
+J2, 3.5mm screw, TerminalBlocks_Phoenix:TerminalBlock_Phoenix_PT-3.5mm_2pol
+J3, Header, Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm
+J4, USB_A, Connectors:USB_A
+L1, 47uH, Bourns:SRP1265A
+R1, 10k, Resistors_SMD:R_0805
+R2, 1k, Resistors_SMD:R_0805
+U1, TS2596, TO_SOT_Packages_SMD:TO-263-5_TabPin3
+icon1, Metroid, PJS-icons:metroid
